@@ -16,6 +16,7 @@ public class Main {
             char[] myArr = {'A', 'B', 'D', 'E', 'C'};
 
             // check to see if it's all uppercase
+            System.out.println("suca");
 
             boolean allCapital = false;
             String copiedString = s.toLowerCase();
